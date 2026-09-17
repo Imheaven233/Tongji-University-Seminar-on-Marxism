@@ -1,0 +1,92 @@
+\documentclass[a4paper,twoside,12pt,AutoFakeBold]{ctexart}
+\newcommand\specialsectioning{\setcounter{secnumdepth}{-2}}
+\specialsectioning
+\usepackage[center]{titlesec}
+\usepackage{indentfirst}
+\setlength{\parindent}{2em}
+\usepackage{fancyhdr}
+\pagestyle{fancy}%fancy style
+\usepackage{caption}
+\fancyhf{}%清空页眉页脚
+\fancyhead[LE,RO]{\thepage}%页码位置：偶数页居左，奇数页居右
+\fancyfoot[RO,RE]{\textit{Tongji's seminar of Marxism}}% 设置页脚：在每页的右下脚以斜体显示书名
+\usepackage{graphicx}
+\setlength{\headheight}{15pt}%解决页眉warnings
+\usepackage{amsmath}
+\renewcommand{\headrulewidth}{0pt} % 页眉与正文之间的水平线粗细
+\renewcommand{\footrulewidth}{0pt}
+\usepackage{tcolorbox}%文本框宏包
+\usepackage{changepage}%设置引用段落左右侧缩进
+
+\usepackage{tabularx}
+\usepackage[colorlinks,linkcolor=blue,
+anchorcolor=green,citecolor=green]{hyperref}%设置超链接
+\usepackage{float}
+\title{读书会记录}
+\author{\kaishu 同济大学马克思主义经典著作研讨会\\
+%\kaishu 指导教师\\
+\kaishu 吴云飞~编}
+\date{2026年秋季学期}
+\usepackage{perpage}
+\MakePerPage{footnote}
+\usepackage{soul}%下划线宏包
+\usepackage{eso-pic} %添加背景图片
+\newcommand\BackgroundPic{%
+\put(-20,-90){ % 调整图片的位置
+\parbox[b][\paperheight]{\paperwidth}{%
+\vfill
+\centering
+\includegraphics[width=4in,angle=0, % 设置图片宽度，旋转0度
+keepaspectratio]{badge.png}
+\vfill
+}}}
+
+
+\begin{document}
+\maketitle
+\AddToShipoutPicture*{\BackgroundPic}  % 在当前页面添加背景图片
+\newpage
+
+
+\tableofcontents%目录
+
+\newpage
+
+\section{序言}
+
+\begin{adjustwidth}{2em}{2em}
+\qquad\fangsong 
+本书是同济大学马克思主义经典著作研究与讨论会的一个内部记录，诸多观点与看法可能会欠缺专业性，因而这是一个非教学性质的内容记录。本书全部内容均来自我们的研讨会中的发言与讨论以及后续编者所进行的思考，如有雷同，纯属巧合，本书最终解释权归本研讨会与本书编者\footnote{编者注：我的邮箱是wuyunfei2000@tongji.edu.cn，如果您在阅读本书之后有相应的意见与建议，抑或是想进行一些学术方面的交流与探讨，请通过该邮箱与我联系。}所有。
+
+本书采用\LaTeX{}编写，\TeX{}源代码已开源，且暂由编者吴云飞托管至其本人的Github仓库之中，供各位成员获取:\url{https://github.com/Imheaven233/Tongji-University-Seminar-on-Marxism}。
+
+\end{adjustwidth}
+
+\newpage
+
+\section{第一期：《<黑格尔法哲学批判>导言》}
+
+\subsection{学习提示}\label{sec:1}
+《<黑格尔法哲学批判>导言》是马克思从唯心主义向唯物主义、从革命民主主义向共产主义转变过程中的重要著作。该文章撰写于1843年10月中至12月中，并于1844年2月在《德法年检》公开发表。\footnote{编者注：《导言》主要写于巴黎，而《黑格尔法哲学批判》主体手稿主要写于克罗茨纳赫。}
+
+这篇文章不长，本期讨论我们会对这篇文章的完整全文进行讨论。
+
+在本次讨论会中，您将会了解到（或带着以下问题去阅读）：
+
+\textbf{1.}为什么马克思要强调宗教批判的重要性？
+
+\textbf{2.}青年黑格尔派（起源于哲学的理论政治派）对宗教进行的批判为何存在着局限？
+
+\textbf{3.}马克思的观点是什么？
+
+\textbf{4.}为什么有学者认为《导言》是马克思从革命民主主义向共产主义、从唯心主义向唯物主义转变过程中的代表性文献？这种观点有道理吗？
+
+{\subsection{读书会记录}
+
+
+
+
+
+
+
+\end{document}
