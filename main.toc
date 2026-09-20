@@ -1,4 +1,8 @@
 \contentsline {section}{序言}{3}{section*.1}%
-\contentsline {section}{第一期：《<黑格尔法哲学批判>导言》}{4}{section*.2}%
+\contentsline {section}{第一期：《<黑格尔法哲学批判>导言》（1）}{4}{section*.2}%
 \contentsline {subsection}{学习提示}{4}{subsection*.3}%
 \contentsline {subsection}{读书会记录}{4}{subsection*.4}%
+\contentsline {subsubsection}{一、如何理解“对宗教的批判是其他一切批判的前提”？}{4}{subsubsection*.5}%
+\contentsline {subsubsection}{二、马克思是怎么看待“人的本质”的？}{5}{subsubsection*.6}%
+\contentsline {subsubsection}{三、德国革命的特殊性}{8}{subsubsection*.7}%
+\contentsline {subsection}{本期小结}{12}{subsection*.8}%
