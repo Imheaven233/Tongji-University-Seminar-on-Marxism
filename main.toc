@@ -6,3 +6,11 @@
 \contentsline {subsubsection}{二、马克思是怎么看待“人的本质”的？}{5}{subsubsection*.6}%
 \contentsline {subsubsection}{三、德国革命的特殊性}{8}{subsubsection*.7}%
 \contentsline {subsection}{本期小结}{12}{subsection*.8}%
+\contentsline {section}{第二期：《<黑格尔法哲学批判>导言》（2）}{13}{section*.9}%
+\contentsline {subsection}{读书会记录}{13}{subsection*.10}%
+\contentsline {subsubsection}{一、应怎样推动德国革命？已有方案存在着何种局限？}{13}{subsubsection*.11}%
+\contentsline {subsubsection}{二、马克思的观点：要从理论批判上升到实践批判}{15}{subsubsection*.12}%
+\contentsline {subsubsection}{三、宗教改革与德国革命的关系}{17}{subsubsection*.13}%
+\contentsline {subsubsection}{四、德国革命的现实性}{18}{subsubsection*.14}%
+\contentsline {subsubsection}{五、为什么说“解放的头脑是哲学，心脏是无产阶级”？}{21}{subsubsection*.15}%
+\contentsline {subsection}{本期小结}{22}{subsection*.16}%
