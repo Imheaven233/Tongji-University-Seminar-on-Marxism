@@ -14,3 +14,9 @@
 \contentsline {subsubsection}{四、德国革命的现实性}{18}{subsubsection*.14}%
 \contentsline {subsubsection}{五、为什么说“解放的头脑是哲学，心脏是无产阶级”？}{21}{subsubsection*.15}%
 \contentsline {subsection}{本期小结}{22}{subsection*.16}%
+\contentsline {section}{第三期：《1844年经济学哲学手稿（异化劳动和私有财产）》（1）}{24}{section*.17}%
+\contentsline {subsection}{读书会记录}{24}{subsection*.18}%
+\contentsline {subsubsection}{一、国民经济学研究方法的局限}{24}{subsubsection*.19}%
+\contentsline {subsubsection}{二、当前国民经济（资本主义社会）的现实}{26}{subsubsection*.20}%
+\contentsline {subsubsection}{三、什么是异化劳动？}{28}{subsubsection*.21}%
+\contentsline {subsection}{本期小结}{30}{subsection*.22}%
